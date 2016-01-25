@@ -1,4 +1,4 @@
-# Production Problem 2: Establishing a client/manager-ready HCI development environment
+﻿# Production Problem 2: Establishing a client/manager-ready HCI development environment
 
 ## The Problem
 
@@ -20,6 +20,7 @@ You should create a separate commit for each of the following steps. The commits
 
 1. Clean up your desktop & take a screenshot of it.
 
+
 First, remove all of the unnecessary cruft (files, app shortcuts, etc.) from your desktop. Organize the rest. On many of my computers, I have a folder called `debris` tucked away in one corner of my desktop, which I can use to keep the desktop tidy.
 
 Be sure also that you’re choosing desktop backgrounds that make your workspace enjoyable, since you’re the one who will spend the most time looking at it, but that wouldn’t be overly distracting (or offensive) to others. Nature photos, abstract photography, and good old-fashioned neutral colors all do the job nicely. What works for you?
@@ -28,9 +29,11 @@ Once you’ve cleaned up your desktop, use Google or another search engine to le
 
 2. Clean up your home directory.
 
+
 No deliverable for this (I don’t want to see your files), but on the honors system, take this opportunity to clean up your home directory. File things away, clean things up. Know where your stuff is. Doing this makes it super-easy to backup all of your files, which you should also be doing. It also means you won’t have to think twice about where to start your next project or where to return to when you’re back at work, because you’ll have a ~/Projects directory or something like it.
 
 3. Set up virtual desktops.
+
 
 Every desktop operating system, even older versions of Windows, make it possible to set up multiple virtual desktops. Use Google or another search engine to learn how to do this on your operating system of choice. Try setting up at least three virtual desktops: one for using your command-line shell and editor; one for your development browser; and one for your everyday web browsing and other apps.
 
@@ -41,6 +44,7 @@ Then, also list here the keyboard commands to switch between your different virt
 
 4. Set up a distraction-free browser.
 
+
 Have at least one browser that is free from bookmarks, bookmark bars, and your personal browsing history. Set it up to clear all history when you exit it, if possible.
 
 You want a clean slate to be able to show a web project off without interference or distraction from any other material. Call it your distraction-free browser.
@@ -48,6 +52,7 @@ You want a clean slate to be able to show a web project off without interference
 Use Google or another search engine to learn the keyboard commands to take a screenshot of the window of your distraction-free browser. Create the screenshot, then copy it to this directory (`week-two`) and add and commit it to the repository.
 
 5. Learn to disable notifications.
+
 
 Projecting your screen or showing it to someone else can be an immediate source of embarrassment if a notification pops up from the wrong app. For every device you own, learn how to disable the notifications. On your desktop device and on one of your devices, take a screenshot of the screen where you can disable all notifications. Create the screenshots, then copy them to this directory (`week-two`) and add and commit them to the repository.
 
